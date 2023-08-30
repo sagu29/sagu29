@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagu29&label=Profile%20views&color=0e75b6&style=flat" alt="sagu29" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/sagu29/sagu29.github.io](https://github.com/sagu29/sagu29.github.io)
+
 - 💬 Ask me about **JavaScript, HTML, CSS.**
 
 - 📫 How to reach me **sagarnikhare1997@gmail.com**
