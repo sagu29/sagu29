@@ -1,16 +1,15 @@
-![logo](https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif)
-
+![logo](https://contentstatic.techgig.com/photo/77317674/top-5-github-repositories-that-every-java-developer-must-bookmark.jpg?142209)
 
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagu29&label=Profile%20views&color=0e75b6&style=flat" alt="sagu29" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagu29/sagu29.github.io](https://github.com/sagu29/sagu29.github.io)
 
-- 💬 Ask me about **JavaScript, HTML, CSS.**
+- 💬 Ask me about **JavaScript, HTML, CSS, Java.**
 
 - 📫 How to reach me **sagarnikhare1997@gmail.com**
 
