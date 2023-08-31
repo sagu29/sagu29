@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=1698883200&v=beta&t=In0DtPFyd0uhAiMAYZVQmglDULrYYrwQR-kpK40DThE)
+![logo]([https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=1698883200&v=beta&t=In0DtPFyd0uhAiMAYZVQmglDULrYYrwQR-kpK40DThE](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))
 
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
