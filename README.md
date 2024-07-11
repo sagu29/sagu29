@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sagarnikhare1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1qb8O7CzVjRXggQmEp-DANLWZIG2SCSoS?usp=sharing](https://drive.google.com/drive/folders/1qb8O7CzVjRXggQmEp-DANLWZIG2SCSoS?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1qb8O7CzVjRXggQmEp-DANLWZIG2SCSoS?usp=sharing](https://drive.google.com/file/d/1UFsNF70NJqUncWpulyQ6lhsgfNPRvL4R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
